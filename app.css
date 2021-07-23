@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+
+.bgapp{
+    background-image: url(images1/bg12.jpg);
+    width: 1400px;
+    height: 725px;
+}
+
+.safary:hover{
+    color:red !important;
+}
+
+.bgg:hover{
+    color: black !important;
+}
+
+.green{
+    display: flex;
+    margin-right: 10px;
+}
+
+.marj{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: black;
+}
+
+.fred{
+    display: flex;
+    margin-left: 100px;
+}
+
+.app{
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+    margin-left: 300px;
+    padding-bottom: 0px;
+}
+
+.lll{
+    display: flex;
+    justify-content: space-between;
+}
+
+.l1{
+    display: flex;
+    margin-left: 300px;
+}
+
+.l2{
+    display: flex;
+    margin-right: 80px;
+}
+
+.l3{
+    display: flex;
+    margin-right: 90px;
+    margin-left: 0px;
+}
+
+.l4{
+    display: flex;
+    /* margin-left: 90px; */
+    margin-right: 80px
+}
+
+.mu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mu1{
+    display: flex;
+    margin-left: 300px;
+}
+
+.mu2{
+    display: flex;
+    margin-right: 10px;
+}
+
+.mu3{
+    display: flex;
+    margin-right: 10px;
+}
+
+.mu4{
+    display: flex;
+    margin-right: 20px;
+}
+
+.aga{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 200px
+}
+
+.crs{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.rdm{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+/* .my-god{
+    font-family: 'Merriweather Sans', sans-serif;
+} */
